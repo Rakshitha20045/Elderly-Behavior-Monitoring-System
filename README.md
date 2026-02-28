@@ -161,7 +161,6 @@ realtime-fall-detection-system/
 | Free WhatsApp | pywhatkit | latest |
 | Audio Alert | pygame | latest |
 
-```
 
 ## 📦 Dependencies
 ```txt
