@@ -188,7 +188,7 @@ pip install ultralytics==8.4.18 mediapipe==0.10.9 streamlit==1.54.0 opencv-pytho
 
 ```bash
 git clone https://github.com/your-username/realtime-fall-detection-system.git
-cd realtime-fall-detection-system
+cd Realtime-Fall-Detection-System
 ```
 
 ### Step 2: Create a Virtual Environment (Recommended)
