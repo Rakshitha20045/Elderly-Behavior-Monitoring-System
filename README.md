@@ -145,7 +145,7 @@ realtime-fall-detection-system/
 ├── requirements.txt            # 📦 List of required Python packages
 ├── Live Fall Detection.mp4     # 📹 Demo video file
 └── README.md                   # 📖 Project documentation
-
+```
 
 ## 🛠️ Tech Stack
 
@@ -161,7 +161,7 @@ realtime-fall-detection-system/
 | Free WhatsApp | pywhatkit | latest |
 | Audio Alert | pygame | latest |
 
-
+```
 
 ## 📦 Dependencies
 
