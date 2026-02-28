@@ -31,9 +31,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 🖥️ Streamlit Dashboard
 
 <p align="center">
-  <img src="images/streamlit-ui.png" width="48%">
+  <img src="Images/streamlit-ui.png" width="48%">
   &nbsp;
-  <img src="images/streamlit-ui-1.png" width="48%">
+  <img src="Images/streamlit-ui-1.png" width="48%">
 </p>
 
 ---
@@ -41,9 +41,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 📹 Live Camera / CCTV Fall Detection
 
 <p align="center">
-  <img src="images/Live-fall-detect.png" width="48%">
+  <img src="Images/Live-fall-detect.png" width="48%">
   &nbsp;
-  <img src="images/Live-fall-detect-1.png" width="48%">
+  <img src="Images/Live-fall-detect-1.png" width="48%">
 </p>
 
 ---
@@ -51,9 +51,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 🎞️ Video File-Based Fall Detection
 
 <p align="center">
-  <img src="images/video-fall-detect.png" width="48%">
+  <img src="Images/video-fall-detect.png" width="48%">
   &nbsp;
-  <img src="images/video-fall-detect-1.png" width="48%">
+  <img src="Images/video-fall-detect-1.png" width="48%">
 </p>
 
 ---
@@ -61,9 +61,9 @@ Designed for **elderly care**, **hospitals**, **smart homes**, and **industrial 
 ### 📲 Emergency Alerts
 
 <p align="center">
-  <img src="images/sms-alert.jpg" width="48%">
+  <img src="Images/sms-alert.jpg" width="48%">
   &nbsp;
-  <img src="images/whatsapp-alert.jpg" width="48%">
+  <img src="Images/whatsapp-alert.jpg" width="48%">
 </p>
 
 <p align="center">
