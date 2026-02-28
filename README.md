@@ -133,7 +133,6 @@ Alert Engine  Green Status
 Streamlit UI (Annotated Frame + Overlays)
 ```
 
----
 
 ## 📂 Project Structure
 
@@ -147,7 +146,7 @@ realtime-fall-detection-system/
 ├── Live Fall Detection.mp4     # 📹 Demo video file
 └── README.md                   # 📖 Project documentation
 
----
+
 ## 🛠️ Tech Stack
 
 | Category | Technology | Version |
@@ -162,7 +161,7 @@ realtime-fall-detection-system/
 | Free WhatsApp | pywhatkit | latest |
 | Audio Alert | pygame | latest |
 
----
+
 
 ## 📦 Dependencies
 
